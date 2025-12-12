@@ -1,0 +1,16 @@
+{
+  "name": "devops-ci-cd-microservice",
+  "version": "0.1.0",
+  "description": "Simple Node.js microservice for CI/CD demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node ./test/app.test.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
