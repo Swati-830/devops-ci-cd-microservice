@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: REPLACE_WITH_YOUR_IMAGE
+        image: swati9455/devops-ci-cd-microservice:dev
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 3000
