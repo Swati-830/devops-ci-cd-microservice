@@ -221,6 +221,21 @@ OPTION A — GitHub Self-Hosted Runner
 OPTION B — Cloudflare Tunnel  
 OPTION C — Expose API Server publicly 
 
+-------------------------------------------------------
+# 📞 Contact & Work Availability
+-------------------------------------------------------
+
+I can set up:
+- CI/CD pipelines  
+- Kubernetes deployments  
+- Docker-based microservices  
+- GitHub Actions workflows  
+- Production-ready DevOps automation  
+
+Feel free to contact me for DevOps work!
+Gmail: swatijaiswal90090@gmail.com
+
+
 ================================================================
 END OF README
 ================================================================
