@@ -41,10 +41,13 @@ This README includes **every mistake, every error, every fix, every learning** s
 
 
 devops-ci-cd-microservice/
-├── app/                 → Node.js microservice code
-├── k8s/                 → Deployment + Service YAML
-├── Dockerfile
-└── .github/workflows/ci-cd.yml
+│
+├── app/ # Node.js microservice source code
+├── k8s/ # Kubernetes Deployment and Service YAML files
+├── Dockerfile # Docker image build instructions
+└── .github/
+└── workflows/
+└── ci-cd.yml # GitHub Actions CI/CD pipeline
 
 
 2. WHAT THIS PROJECT DOES
